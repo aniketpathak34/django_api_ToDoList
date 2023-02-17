@@ -49,3 +49,16 @@ That's it! You can now use the Django application and make changes to the code a
 
 
 
+how to acces CRUD operations in this project
+
+    CREAT a ToDoList  : http://127.0.0.1:8000/api/create/
+    
+    READ a ToDoList   : http://127.0.0.1:8000/api/
+    
+    UPDATE a ToDoList : http://127.0.0.1:8000/api/3/
+          note :- 3 no is nothing but id number of your TODO
+          
+    DELETE a ToDoList : http://127.0.0.1:8000/api/delete/3/
+
+
+
